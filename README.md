@@ -1,3 +1,4 @@
+I'm a freshman currently pursuing a Bachelor of Science in Computer Science. I’m passionate about coding, learning new technologies, and building projects to deepen my skills. Excited to connect and collaborate on interesting projects!
 - 👋 Hi, I’m @sapppnu
 - 👀 I’m interested in coding
 - 🌱 I’m currently learning programming languages
